@@ -23,3 +23,16 @@
 "npm_command": "D:\\Program Files\\nodejs\\npm.cmd",
 ```
 
+### 错误
+```
+����: û���ҵ����� "node.exe"��
+hello
+[Finished in 0.2s]
+```
+
+```
+将Nodejs/Nodejs.sublime-build 中 
+"cmd": ["taskkill /F /IM node.exe & node", "$file"] 改为 "cmd": ["node", "$file"]
+```
+
+
