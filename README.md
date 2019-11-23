@@ -23,8 +23,9 @@
 "npm_command": "D:\\Program Files\\nodejs\\npm.cmd",
 ```
 
-### 错误
+
 ```
+Ctrl+b 提示错误
 ����: û���ҵ����� "node.exe"��
 hello
 [Finished in 0.2s]
